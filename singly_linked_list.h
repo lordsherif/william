@@ -24,4 +24,4 @@ int list_iterator_next(ListIterator *iter, void **out_data);
 void list_iterator_reset(ListIterator *iter);
 void list_iterator_destroy(ListIterator *iter);
 
-#endif // SINGLY_LINKED_LIST_H
+#endif
